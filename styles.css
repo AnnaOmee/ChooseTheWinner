@@ -1,0 +1,43 @@
+body{
+  background-color: #464660;
+  margin: 5% 0 0;
+}
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 4.5rem;
+  color: #9FE6A0;
+  text-shadow: 5px 4px #343A40;
+}
+
+footer{
+  text-align: center;
+  padding: 3%;
+}
+
+a{
+    text-decoration: none;
+    color: #FCECDD;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+}
+
+a:hover{
+  color: #9FE6A0;
+}
+
+/* classes */
+.container{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.players{
+  display: inline-block;
+  font-family: 'Coustard', serif;
+  font-size: 1.5rem;
+  color: #9FE6A0;
+  font-style: italic;
+  padding: 1% 3%;
+}
